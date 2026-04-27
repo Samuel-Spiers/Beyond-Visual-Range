@@ -11,6 +11,7 @@ To do this, follow the steps below:
  3. Select "Open with GitHub Desktop"
  4. Set the "Local path" to where you want the game to be located. (including any future test versions)
  5. Click the "Clone" button.
+ 6. The game executable is located inside the "0.0.1" folder.
 
 This will download the game for you in a format that will work properly, as well as give you a desktop app to access future updates.
 
