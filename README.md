@@ -17,7 +17,7 @@ This will download the game for you in a format that will work properly, as well
 
 --------------------------------------------------
 
-# FLIGHT TEST BUILD 1 IS LIVE
+# FLIGHT TEST BUILD 0.0.1 IS LIVE
 --------------------------------------------------
 The first BVR flight physics test build is now live and available to all who have access to this repository!
 
