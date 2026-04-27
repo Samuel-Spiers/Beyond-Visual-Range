@@ -7,6 +7,8 @@ The first BVR flight physics test build is now live and available to all who hav
 
 If you find any issues, please create an issue in the "Issues" tab with a description of the problem, thanks.
 
+For suggestions and/or to submit your custom physics settings, please fill out this [form](https://forms.gle/P2D4qjpB6gbGbR3i9).
+
 ***Please note: All assets/visuals are placeholders and WILL change in the future. This test is ONLY about the early flight physics.***
 
 ### In this test
