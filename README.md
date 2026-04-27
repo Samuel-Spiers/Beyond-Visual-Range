@@ -25,6 +25,17 @@ If you find any issues, please create an issue in the "Issues" tab with a descri
 
 For suggestions and/or to submit your custom physics settings, please fill out this [form](https://forms.gle/P2D4qjpB6gbGbR3i9).
 
+#### CONTROLS
+--------------------------------------------------
+ - W/S = Throttle (Hold W above 90% engine RPM for afterburner)
+ - A/D = Yaw
+ - Q/E = Roll
+ - LShift/LCtrl = Pitch
+ - G = Gear
+ - H = Airbrake
+ - Esc = Pause
+ - Scroll Wheel = Zoom
+
 ***Please note: All assets/visuals are placeholders and WILL change in the future. This test is ONLY about the early flight physics.***
 
 ### In this test
