@@ -1,6 +1,21 @@
 # BVR - Beyond Visual Range
 This is the repository that will be used for various testing phases of BVR.
 
+--------------------------------------------------
+### NOTE - EXTREMELY IMPORTANT: DUE TO THE USE OF GITHUB LFS, YOU MUST CLONE THE REPOSITORY FOR THE GAME TO WORK CORRECTLY WHEN DOWNLOADED. DO NOT DOWNLOAD THE ZIP FILE.
+(This is due to zip compression causing issues with GitHub LFS file pointers resolving.)
+
+To do this, follow the steps below:
+ 1. Install GitHub Desktop on your computer: [https://github.com/apps/desktop](https://github.com/apps/desktop)
+ 2. Click the <img width="66.6" height="30" alt="image" src="https://github.com/user-attachments/assets/0db44570-1fbc-48cf-ac32-c967c1e79067" /> button.
+ 3. Select "Open with GitHub Desktop"
+ 4. Set the "Local path" to where you want the game to be located. (including any future test versions)
+ 5. Click the "Clone" button.
+
+This will download the game for you in a format that will work properly, as well as give you a desktop app to access future updates.
+
+--------------------------------------------------
+
 # FLIGHT TEST BUILD 1 IS LIVE
 --------------------------------------------------
 The first BVR flight physics test build is now live and available to all who have access to this repository!
