@@ -17,6 +17,31 @@ This will download the game for you in a format that will work properly, as well
 
 --------------------------------------------------
 
+# FLIGHT TEST BUILD 0.0.2 OUT NOW
+--------------------------------------------------
+The first major update for the BVR flight test is now live and ready for testing. Most of these fixes/additions are from suggestions from a tester!
+
+### CHANGELOG
+--------------------------------------------------
+ADDITIONS
+- Added custom keybinds
+- Added hard map border (will make soft later on)
+- Added mach number display
+- Added runway spawn
+- Added FPS counter
+- Added new ground 8K textures (had to be compressed for GitHub, still won't look great)
+- Added Imperial/Metric unit options
+
+FIXES
+- Fixed air density not effecting afterburner thrust
+- Fixed air density curve to be more realistic and extend higher
+- Fixed inaccurate altitude above sea level
+- Fixed changing slip resistance causing it to disable entirely
+- Fixed incorrect speed conversion from m/s to km/h
+- Moved UI farther from the middle of the screen
+- Moved sun position to match skybox
+- Afterburner now comes on gradually instead of instantly
+
 # FLIGHT TEST BUILD 0.0.1 IS LIVE
 --------------------------------------------------
 The first BVR flight physics test build is now live and available to all who have access to this repository!
